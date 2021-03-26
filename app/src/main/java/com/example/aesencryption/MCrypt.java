@@ -2,7 +2,6 @@ package com.example.aesencryption;
 
 /**
  * Created by RAHUL on 23-Dec-2019.
- * EarnEwalth Solutions Pvt Ltd
  */
 /***********/
 /**JAVA**/
